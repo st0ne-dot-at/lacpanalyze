@@ -1,5 +1,5 @@
 # LACPANALYZE
-The lacpanalyze python script scans all ethernet interface for lacp packets and display interfaces with their lacp keys.
+The lacpanalyze python script scans all ethernet interface for lacp packets and display interfaces with their lacp keys. Additionally it displays the native vlan on the interface.
 
 ## prerequisits
 The tcpdump binary have to be installed.
